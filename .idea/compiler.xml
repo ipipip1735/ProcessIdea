@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default">
+        <option name="name" value="111" />
+        <processorPath>
+          <entry name="$PROJECT_DIR$/out/artifacts/processor_jar" />
+        </processorPath>
+      </profile>
+      <profile name="AP" enabled="true">
+        <option name="name" value="111" />
+        <module name="ProcessIdea" />
+        <module name="processor" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
